@@ -17,6 +17,7 @@ var client_secret = ''; // Your secret
 var redirect_uri = ''; // Or Your redirect uri
 
 
+
 /**
  * Generates a random string containing numbers and letters
  * @param  {number} length The length of the string
